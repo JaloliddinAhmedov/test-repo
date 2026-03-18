@@ -1,7 +1,7 @@
 1 in2fileInGit1
 2 in2fileInGit1
-3 in2fileInGit1
-4 in2fileInGit1
+3 in2fileInGit1_changed_by_git_2
+4 in2fileInGit1_changed_by_git_2
 5 in2fileInGit1
 6 in2fileInGit1
 7 in2fileInGit1
