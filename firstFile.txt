@@ -2,9 +2,16 @@
 2in1fileInGit1_modified_by_git_1-in_step7
 3in1fileInGit1_modified_by_git_1-in_step8
 4in1fileInGit1_modified_by_git_1-in_step8
+<<<<<<< HEAD
 5in1fileInGit1
 6in1fileInGit1
 7in1fileInGit1_modified_git_1folder1_step19
 8in1fileInGit1_modified_git_1folder1_step19
+=======
+5in1fileInGit1_modified_git_1folder2_step18
+6in1fileInGit1_modified_git_1folder2_step18
+7in1fileInGit1
+8in1fileInGit1
+>>>>>>> 569b1c3cfb24fcc8aed60ba97049c2e7c3b305ac
 9in1fileInGit1
 10in1fileInGit1
