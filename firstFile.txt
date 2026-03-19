@@ -2,8 +2,8 @@
 2in1fileInGit1_modified_by_git_1-in_step7
 3in1fileInGit1_modified_by_git_1-in_step8
 4in1fileInGit1_modified_by_git_1-in_step8
-5in1fileInGit1
-6in1fileInGit1
+5in1fileInGit1_modified_git_1folder2_step18
+6in1fileInGit1_modified_git_1folder2_step18
 7in1fileInGit1
 8in1fileInGit1
 9in1fileInGit1
